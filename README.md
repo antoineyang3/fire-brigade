@@ -13,7 +13,7 @@ Unavailable maps in the notebook are provided here :
 In this one, the boroughs with more fires are darker.
 ![Map Incidents](Map_Incidents.png)
 
-In this one, the boroughs that are best predicted by the model are darker.
+In this one, the boroughs that are worst predicted by the model are darker.
 ![Map Prediction](Map_Prediction.png)
 
 
