@@ -10,8 +10,10 @@ Feature selection is done through exhaustive search. As we observe that adding m
 
 Unavailable maps in the notebook are provided here :
 
+In this one, the boroughs with more fires are darker.
 ![Map Incidents](Map_Incidents.png)
 
+In this one, the boroughs that are best predicted by the model are darker.
 ![Map Prediction](Map_Prediction.png)
 
 
