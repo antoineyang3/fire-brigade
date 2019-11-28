@@ -16,7 +16,7 @@ In this one, the boroughs with more fires are darker.
 In this one, the boroughs that are worst predicted by the model are darker.
 ![Map Prediction](Map_Prediction.png)
 
-
+A natural extension of this work would include improving the model (Polynomial regression, Penalization to avoid overfitting when adding more variables...).
 
 
 
