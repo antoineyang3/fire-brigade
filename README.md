@@ -1,6 +1,6 @@
 # fire-brigade
 
-This repository is about analyzing the public data of the London Fire Brigade, which includes more than 1M incidents over the past decade. The goal of this study is to understand the impact of socio-economic disparities between the different boroughs in London on the activities of the Brigade. 
+This repository presents a data science / machine learning project, about the public data of the London Fire Brigade, which includes more than 1M incidents over the past decade. The goal of this study is to understand the impact of socio-economic disparities between the different boroughs in London on the activities of the Brigade. 
 
 For this study, 13 socio-economic features were selected to describe boroughs : housing price, population, life expectancy, unemployment rate, number of homeless people, number of people whose revenue is inferior to the minimum living wage, education score based on students grades, number of tourists, ratio of foreigners, score of happiness based on a poll and a road accident risk score.
 
