@@ -6,17 +6,17 @@ For this study, 13 socio-economic features were selected to describe boroughs : 
 
 The model chosen was Linear Regression, to explain the number of fires per borough with well selected features. 3 implementations of cross-validation are proposed : one splitting data on the incidents themselves, a bootstrap variant using sampling with replacement for the split and one splitting data on number of fires per borough. The first two were significantly slower, but also more stable. The third one was selected and repeated several times to solve the problem of stability. Overall, the three methods gave similar regression results.
 
-Feature selection is done through exhaustive search. As we observe that adding more than 6 variables does not marginally improve the determination coefficient, we choose a 6 variable model (Population, Density, Foreigners, Homeless, Life Expectancy, Education).  This model gives a determination coefficient of 0.90. Visualizing a heatmap of correlation between variables enables to understand the relation between the features. 
+Feature selection is done through exhaustive search. As we observe that adding more than 6 explicative variables does not marginally improve the determination coefficient, we choose a model with 6 explicative variables (Population, Density, Foreigners, Homeless, Life Expectancy, Education).  This model gives a determination coefficient of 0.90. The heatmap of correlation between variables enables to visualize the relation between the features. 
 
 Unavailable maps in the notebook are provided here :
 
-In this one, the boroughs with more fires are darker.
+In the first one, the boroughs with more fires are darker.
 ![Map Incidents](Map_Incidents.png)
 
-In this one, the boroughs that are worst predicted by the model are darker.
+In the second one, the boroughs that are worst predicted by the model are darker.
 ![Map Prediction](Map_Prediction.png)
 
-A natural extension of this work would include improving the model (Polynomial regression, Penalization to avoid overfitting when adding more variables...).
+A natural extension of this work would include complexifying the model (Polynomial regression, Penalization to avoid overfitting when adding more variables...).
 
 
 
