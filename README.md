@@ -10,9 +10,9 @@ Feature selection is done through exhaustive search. As we observe that adding m
 
 Unavailable maps in the notebook are provided here :
 
-![alt text](http://github.com/antoineyang3/fire-brigade/edit/master/Map_Incidents.png)
+![Map Incidents](Map_Incidents.png)
 
-![alt text](http://github.com/antoineyang3/fire-brigade/edit/master/Map_Prediction.png)
+![Map Prediction](Map_Prediction.png)
 
 
 
