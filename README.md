@@ -1,4 +1,4 @@
-# fire-brigade
+# Analysis of the London Fire Brigade data
 
 This repository presents a data science / machine learning project done with Yanis Benidir, about the public data of the London Fire Brigade, which includes more than 1M incidents over the past decade. The goal of this study is to understand the impact of socio-economic disparities between the different boroughs in London on the activities of the Brigade. 
 
